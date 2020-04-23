@@ -1,0 +1,48 @@
+* {
+    font-size: 18px;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.q_r {
+    width: 1000px;
+
+}
+
+.form_question {
+    font-size: 1.8em;
+}
+
+
+.form_btns {
+    width: 500px;
+    margin: 2em auto;
+}
+
+form {
+    max-width: 1400px;
+    margin: 20px auto;
+}
+
+
+
+
+.hide {
+    display: none;
+}
+
+#start {
+    margin-top: 2em;
+}
+
+#msg {
+    display: none;
+    margin: 1em auto;
+}
